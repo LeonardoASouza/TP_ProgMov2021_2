@@ -6,7 +6,7 @@ Grupo:
 -Fellipe Oliveira da Silva
 --RGA 2017.1906.014-2
 
--> VISÂO GERAL :
+-> VISÃO GERAL :
 Aplicativo de compartilhamento de imagem baseado na localização, tem como propósito divulgar as fotos de paisagens, monumentos e afins, não tendo como conteúdo o usuário mas sim o
 local onde foi tirada a foto ou o que foi fotografado.
 
@@ -15,5 +15,4 @@ Usuário padrão - Aquele que terá uma conta comum e lhe será possivel compart
 
 ->REQUISITOS:
 No aplicativo o usuário poderá criar a sua conta, poderá carregar ou tirar uma foto através do app e publica-lá com a localização de onde foi tirada (sendo a localizão
-obrigatório, já que o app é para divulgação do local e não da pessoa/usuário), poderá acessar as publicações de outros usuários aleatoriamente, e acompanhar o local ou um usuário
-para ser notificado da novas imagens publicadas sobre o local ou por aquela pessoa. 
+obrigatório, já que o app é para divulgação do local e não da pessoa/usuário), poderá acessar as publicações de outros usuários aleatoriamente, e acompanhar o local para ser notificado da novas imagens publicadas sobre o ele.
